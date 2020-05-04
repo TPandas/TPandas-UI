@@ -3,9 +3,12 @@ bin-debug/
 bin-release/
 [Oo]bj/
 [Bb]in/
+.idea
+__pycache__/
+*.py[cod]
 
 # Other files and folders
-.settings/
+
 
 # Executables
 *.swf
